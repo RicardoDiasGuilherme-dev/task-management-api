@@ -1,4 +1,4 @@
-package model;
+package dev.ricardo.taskmanager.model;
 
 import jakarta.persistence.*;
 

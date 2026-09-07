@@ -1,6 +1,5 @@
-package com.ricardodiasguilherme.taskmanagement.model;
+package dev.ricardo.taskmanager.model;
 
-import model.Task;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
