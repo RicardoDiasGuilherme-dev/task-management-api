@@ -1,4 +1,4 @@
-package com.ricardodiasguilherme.taskmanagement;
+package dev.ricardo.taskmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
